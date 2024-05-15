@@ -22,3 +22,13 @@ body{
     margin: 5px;
     cursor: pointer;
 }
+#toastBox{
+    position: absolute;
+    bottom: 30px;
+    right: 30px;
+    display: flex;
+    align-items: flex-end;
+    flex-direction: column;
+    overflow: hidden;
+    padding: 20px;
+}
